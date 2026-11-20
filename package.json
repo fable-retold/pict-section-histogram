@@ -3,6 +3,9 @@
     "version": "1.0.1",
     "description": "Pict histogram section with vertical/horizontal orientation, browser/consoleui/CLI rendering, and interactive selection",
     "main": "source/Pict-Section-Histogram.js",
+    "files": [
+        "source"
+    ],
     "scripts": {
         "start": "node source/Pict-Section-Histogram.js",
         "build": "npx quack build",
